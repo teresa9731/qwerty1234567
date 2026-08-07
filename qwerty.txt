@@ -1,1 +1,1 @@
-calc 
+mkdir C:\programdata\123
